@@ -12,6 +12,16 @@ Version: 1.5.1
 General Styles
 ------------------------------------------------------------------- */
 
+div div div div.bios {
+	text-align: justify;
+	width: 70%;
+	margin: 0 auto;
+}
+
+.bios a {
+	font-style: italic;
+}
+
 iframe {
 	display: inline-block;
 }
